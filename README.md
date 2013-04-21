@@ -9,3 +9,9 @@ Run
 ```shell
 sbt run
 ```
+
+Reference
+---------
+
+* http://euler.synap.co.kr/
+* http://projecteuler.net/
